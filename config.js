@@ -22,7 +22,7 @@ global.owner = ['6285888258313','6285947731232']
 global.packname = 'LOLITA BOT'
 global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
 global.sessionName = 'inisesi'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','*','#','🗿']
 global.sp = '⭔'
 global.mess = {
     admin: 'Fitur Khusus Admin Group!',
