@@ -85,7 +85,7 @@ module.exports = hisoka = async (hisoka, m, chatUpdate) => {
 
         switch(command) {
 	    case 'sc': {
-                m.reply('Script : https://github.com/DikaArdnt/Hisoka-Morou\n\n Dont Forget Give Star\n\nDonate : https://ko-fi.com/cak_haho\n\n Dont Forget Donate')
+                m.reply('yang pasti bukan cari di yutub')
             }
             break
             case 'chat': {
@@ -483,7 +483,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 858-8825-8313'
                                 }
                             }, {
                                 quickReplyButton: {
